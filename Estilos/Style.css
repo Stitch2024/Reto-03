@@ -79,8 +79,8 @@ h1,p {
     font-family: "Outfit", sans-serif;
 }
 .descripción3 ::marker{
-    color: crimson;
+    color: rgb(137, 23, 23);
 }
 .descripción3 h3{
-    color: crimson;
+    color: rgb(137, 23, 23);
 }
