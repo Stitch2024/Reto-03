@@ -52,7 +52,7 @@ h1,p {
 
 .descripción2 {
     margin-top: 20px;
-    background-color: rgb(255, 221, 227);
+    background-color: rgb(252, 232, 236);
     margin-right: 20px;
     margin-left: 20px;
     
@@ -63,4 +63,7 @@ h1,p {
     font-family: "Outfit", sans-serif;
     text-align: justify;
     margin: 10px;
+}
+h3{
+    color: violet;
 }
