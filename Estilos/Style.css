@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f3e5d8;
+}
+
+.principal {
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 736px;
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+
+img {
+    max-width: 100%;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+h1 {
+    font-family: "Young Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #2f2b2a;
+}
+
+
+h1,p {
+    margin-left: 20px;
+}
+
+.descripción {
+    font-weight: 400;
+    font-family: "Outfit", sans-serif;
+    text-align: justify;
+    font-size: 16px;
+    margin-right: 20px;
+}
+
+.descripción2 {
+    margin-top: 20px;
+    background-color: hsl(0, 0%, 50%);
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+
+.articulo {
+    font-weight: 400;
+    font-family: "Outfit", sans-serif;
+    text-align: justify;
+}
