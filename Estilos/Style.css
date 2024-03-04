@@ -69,3 +69,6 @@ h1,p {
 h3{
     color: violet;
 }
+::marker{
+    color: rgb(246, 151, 255);
+}
