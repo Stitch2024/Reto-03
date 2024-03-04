@@ -50,7 +50,7 @@ h1,p {
     font-size: 16px;
     margin-right: 20px;
 }
-
+/**/
 .descripción2 {
     margin-top: 20px;
     background-color: rgb(252, 232, 236);
@@ -59,7 +59,7 @@ h1,p {
     border-radius: 10px;
     
 }
-
+/*tiempo de cocinado*/
 .articulo {
     font-weight: 400;
     font-family: "Outfit", sans-serif;
@@ -73,7 +73,7 @@ h1,p {
 .articulo h3{
     color: violet;
 }
-
+/*ingredientes*/
 .descripción3{
     margin: 20px;
     font-family: "Outfit", sans-serif;
