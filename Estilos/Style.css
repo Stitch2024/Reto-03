@@ -20,6 +20,7 @@ body {
     background: white;
     border-radius: 20px;
     padding: 20px;
+    
 }
 
 
@@ -66,9 +67,17 @@ h1,p {
     padding: 20px;
    
 }
-h3{
+.articulo ::marker{
+    color: rgb(246, 151, 255);
+}
+.articulo h3{
     color: violet;
 }
-::marker{
-    color: rgb(246, 151, 255);
+
+.descripción3{
+    margin: 20px;
+    font-family: "Outfit", sans-serif;
+}
+.descripción3 ::marker{
+
 }
